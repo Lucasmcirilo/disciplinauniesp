@@ -1,0 +1,4 @@
+Criei meu repositorio no GitHub nomeado de ProjetoA,peguei o repositorio do aluno B nomeado de ProjetoB clonei ele para a maquina local usando o comando "git clone + URL",em seguida criei um arquivo txt nomeado de ProjetoB dentro do repositorio clonado,em seguida usei o comando "git add ."para adicionar o arquivo na area de commit,em seguida usei o comando "git commit -m "Mensagem"" para commitar o arquivo,e entao usei o comando "git push origin" para mandar para o meu repositorio remoto.
+
+
+FAZER ATIVIDADE NO PASSO A PASSO:
