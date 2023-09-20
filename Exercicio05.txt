@@ -1,0 +1,17 @@
+2- Na pagina web do repositorio no github,aperto na opçao "<>code" e copio a URL do repositorio,em seguida abro o Shell localizado na pasta Documents e digito o comando:"git clone https://github.com/Lucasmcirilo/disciplinauniesp.git"
+
+3-Prompt esta na pasta Documents:"cd disciplinauniesp/"
+
+5-Utilisando o comando "LS" é possivel ver todos os arquivos na pasta clonada.
+
+6-Utilisando o comando "git status".
+
+7-Utilisando o comando "git add .". 
+
+8-Utilisando o comando "git commit -m "Meu primeiro commit"".
+
+9-Utilisando o comando "git push origin main".
+
+10-Utilisando o comando "git status"
+
+
